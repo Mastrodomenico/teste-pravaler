@@ -1,0 +1,9 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/js/course.edit.js": "/js/course.edit.js",
+    "/js/institution.edit.js": "/js/institution.edit.js",
+    "/js/institution.new.js": "/js/institution.new.js",
+    "/js/student.edit.js": "/js/student.edit.js",
+    "/js/student.new.js": "/js/student.new.js",
+    "/css/app.css": "/css/app.css"
+}
